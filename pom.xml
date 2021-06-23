@@ -68,7 +68,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
  		<dependency>
 			<groupId>org.eclipse.jetty</groupId>
 			<artifactId>jetty-server</artifactId>
-			<version>9.2.6.v20141205</version>
+			<version>9.4.41.v20210516</version>
 		</dependency>
 		<dependency>
             <groupId>org.eclipse.jetty</groupId>
